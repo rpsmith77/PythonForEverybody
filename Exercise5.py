@@ -5,5 +5,5 @@
 # Fahrenheit, and print out the converted temperature.
 
 celsius = float(input("Enter temperature in celsius: "))
-fahrenheit = celsius *(9 / 5) + 32
+fahrenheit = celsius * (9 / 5) + 32
 print("In fahrenheit that is {:.2f} degrees".format(fahrenheit))
