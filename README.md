@@ -57,8 +57,8 @@ A program is a sequence of stored instructions. The computer then executes each 
 Certain words are reserved in programing languages and cannot be used as variable names (in python some reserved words are input, for, if, while, and there are many more). Programing text editors, like PyCharm, make it much easier to write code than doing it in a shell because when you write in a shell every you have to enter each line perfectly at the same time for it to work. In text editor you can go back and correct your mistakes without having to retype everything. The lines of code in the text editor are often referred to as scripts.
 
 There are 4 patterns of code. 1. Sequential: just going step by step down the code. 2. Conditional: Similar to sequential but there are conditions for some steps to happen ( IF this THEN that). 3. Repeating: This is where computers become very powerful, It is when the program can repeat steps as many times as needed. 4. Store and Retrieve: Will be covered in chapter 4. 
-[Exercise 1](https://github.com/rpsmith77/PythonForEverybody/blob/master/Exercise1.py)
-[Exercise 2](https://github.com/rpsmith77/PythonForEverybody/blob/master/Exercise2.py)
-[Exercise 3](https://github.com/rpsmith77/PythonForEverybody/blob/master/Exercise3.py)
-[Exercise 4](https://github.com/rpsmith77/PythonForEverybody/blob/master/Exercise4.py)
-[Exercise 5](https://github.com/rpsmith77/PythonForEverybody/blob/master/Exercise5.py)
+[Exercise 1](https://github.com/rpsmith77/PythonForEverybody/blob/master/Exercise1.py).
+[Exercise 2](https://github.com/rpsmith77/PythonForEverybody/blob/master/Exercise2.py).
+[Exercise 3](https://github.com/rpsmith77/PythonForEverybody/blob/master/Exercise3.py).
+[Exercise 4](https://github.com/rpsmith77/PythonForEverybody/blob/master/Exercise4.py).
+[Exercise 5](https://github.com/rpsmith77/PythonForEverybody/blob/master/Exercise5.py).
