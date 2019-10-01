@@ -1,5 +1,4 @@
 # Ryan Smith
 #Python for Everybody Coursera
 
-
-print("Hello World!")
+print("Hello world!")
