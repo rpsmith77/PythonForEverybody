@@ -22,17 +22,20 @@
 # F
 # Run the program repeatedly as shown above to test the various different values for input.
 
-score = float(input("Enter Score: "))
-
-if score > 1 or score < 0:
-    print("Bad score")
-elif score >= .9:
-    print("A")
-elif score >= .8:
-    print("B")
-elif score >= .7:
-    print("C")
-elif score >= .6:
-    print("D")
-else:
-    print("F")
+score = input("Enter Score: ")
+try:
+    score = float(score)
+    if score > 1 or score < 0:
+        print("Bad score")
+    elif score >= .9:
+        print("A")
+    elif score >= .8:
+        print("B")
+    elif score >= .7:
+        print("C")
+    elif score >= .6:
+        print("D")
+    else:
+        print("F")
+except:
+    print("Bad Score")
