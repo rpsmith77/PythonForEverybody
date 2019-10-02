@@ -93,13 +93,13 @@ Exercise 4:What is the purpose of the “def” keyword in Python?
  - [x] d) b and c are both true
  
 Exercise 5: What will the following Python program print out?<br/>
-def fred():<br/>
-print("Zap") <br/>
-def jane(): <br/>
-print("ABC")<br/>
- jane() <br/>
- fred() <br/>
- jane()<br/>
+    def fred():
+	    print("Zap") 
+    def jane(): 
+	    print("ABC")
+    jane() 
+    fred() 
+    jane()
  - [ ] a) Zap ABC jane fred jane
  - [ ] b) Zap ABC Zap
  - [ ] c) ABC Zap jane
