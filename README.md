@@ -79,8 +79,8 @@ A while loop is similar to an if statement but at the end of the code for the lo
 
 ### Week 5: Chapter 4 - Functions
 Calling Back to week 2 this chapter is about the fourth type of patterns in code, store and re-use (A.K.A. functions). Functions are powerful and prevent you from doing redundant lines of codes. Functions are similar to variables but they hold code. Things like print and float are functions already built into python. 
-def function(foo): foo is called an alias
-function(bar)  bar is a parameter
+```def function(foo):``` foo is called an alias
+```function(bar)```  bar is a parameter
 return stops the function and returns the residual
 
 #### The exercises for this section started with #4
