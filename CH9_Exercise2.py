@@ -21,3 +21,5 @@ for line in f:
             week[day] = 1
 
 print(week)
+
+f.close()
