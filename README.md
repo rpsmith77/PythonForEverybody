@@ -131,5 +131,5 @@ On a very basic letter a string is a sequence of characters. This entire readme 
 [Exercise 5](https://github.com/rpsmith77/PythonForEverybody/blob/master/CH6_Exercise5.py)
 
 ### Week 9: Chapter 9- Dictionaries
-A dictionary, in python, is similar to a list but a list is indexed by integers but a dictionary can be indexed by just about any value. The unique index value is called a key, and the value that the index, or key, refers to is called a value. 
+A dictionary, in python, is similar to a list but a list is indexed by integers but a dictionary can be indexed by just about any value. The unique index value is called a key, and the value that the index, or key, refers to is called a value. <br/>
 [Exercise 2](https://github.com/rpsmith77/PythonForEverybody/blob/master/CH9_Exercise2.py)<br/>[Exercise 3](https://github.com/rpsmith77/PythonForEverybody/blob/master/CH9_Exercise3.py)<br/>[Exercise 4](https://github.com/rpsmith77/PythonForEverybody/blob/master/CH9_Exercise4.py)<br/>[Exercise 5](https://github.com/rpsmith77/PythonForEverybody/blob/master/CH9_Exercise5.py)<br/>
