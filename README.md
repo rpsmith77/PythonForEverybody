@@ -108,7 +108,7 @@ Exercise 5: What will the following Python program print out?
  - [ ] c) ABC Zap jane
  - [x] d) ABC Zap ABC
  - [ ] e) Zap Zap Zap
-<br/>
+ 
 [Exercise 6](https://github.com/rpsmith77/PythonForEverybody/blob/master/CH4_Exercise%206.py).<br/>
 [Exercise 7](https://github.com/rpsmith77/PythonForEverybody/blob/master/CH4_Exercise%207.py).<br/>
 
