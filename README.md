@@ -138,3 +138,5 @@ Tuples are very similar to lists execpt they are immutable. They are also compar
 [Exercise 1](https://github.com/rpsmith77/PythonForEverybody/blob/master/CH10_Exercise1.py)<br/>
 [Exercise 2](https://github.com/rpsmith77/PythonForEverybody/blob/master/CH10_Exercise2.py)<br/>
 [Exercise 3](https://github.com/rpsmith77/PythonForEverybody/blob/master/CH10_Exercise1=3.py)<br/>
+### Week 11 and 12: Complete Independent Program
+My independent program was a [Harry Potter Sorting Hat Quiz](https://github.com/rpsmith77/Integration). I used all the skills I learned in this coursera class and in my COP 1500 class to create it.
